@@ -7,7 +7,7 @@ gem 'bcrypt-ruby', '~> 3.0.0'
 gem 'devise'
 gem 'omniauth-facebook'
 gem 'figaro'
-gem "koala", "~> 1.7.0rc1"
+gem 'koala', '~> 1.7.0rc1'
 gem 'mixcloud'
 
 group :assets do
