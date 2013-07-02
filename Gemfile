@@ -8,6 +8,7 @@ gem 'devise'
 gem 'omniauth-facebook'
 gem 'figaro'
 gem "koala", "~> 1.7.0rc1"
+gem 'mixcloud'
 
 group :assets do
   gem 'sass-rails',   '~> 3.2.3'
