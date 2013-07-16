@@ -1,4 +1,5 @@
 #fonograf
+A podcast aggragrator and profiler. Discover stories. 
 
 ##Statue: WIP
 
@@ -6,5 +7,3 @@
 -Optimization with large data rendering
 -Caching
 
-##Project
-A podcast aggragrator and profiler. Discover stories. 
