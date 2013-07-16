@@ -1,8 +1,10 @@
-==Statue: WIP
+#fonograf
 
-==Built To Learn: 
+##Statue: WIP
+
+##Built To Learn: 
 -Optimization with large data rendering
 -Caching
 
-=Project
+##Project
 A podcast aggragrator and profiler. Discover stories. 
