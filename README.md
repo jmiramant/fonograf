@@ -1,3 +1,8 @@
-Get ready for the coolest podcast and audio site. It's going to be hot. 
+==Statue: WIP
 
--Josh
+==Built To Learn: 
+-Optimization with large data rendering
+-Caching
+
+==Project
+A podcast aggragrator and profiler. Discover stories. 
